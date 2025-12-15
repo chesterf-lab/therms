@@ -1,1 +1,165 @@
-index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>GlobalITCSupport | Terms & Conditions</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: "Segoe UI", Tahoma, Arial, sans-serif;
+        background: linear-gradient(135deg, #1e3c72, #2a5298);
+        color: #333;
+    }
+
+    .header {
+        padding: 30px;
+        text-align: center;
+        color: #fff;
+    }
+
+    .header h1 {
+        margin: 0;
+        font-size: 32px;
+        letter-spacing: 1px;
+    }
+
+    .header p {
+        margin-top: 8px;
+        opacity: 0.9;
+    }
+
+    .container {
+        max-width: 900px;
+        margin: -30px auto 40px;
+        background: #ffffff;
+        padding: 40px;
+        border-radius: 12px;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+    }
+
+    h2 {
+        color: #1e3c72;
+        margin-top: 30px;
+        border-left: 4px solid #1e3c72;
+        padding-left: 10px;
+    }
+
+    p {
+        line-height: 1.8;
+        margin-top: 10px;
+    }
+
+    .highlight {
+        background: #f1f5ff;
+        padding: 15px;
+        border-radius: 6px;
+        margin-top: 15px;
+    }
+
+    .footer {
+        text-align: center;
+        color: #fff;
+        font-size: 14px;
+        padding: 20px;
+        opacity: 0.8;
+    }
+
+    .contact {
+        background: #f8f9fc;
+        padding: 15px;
+        border-radius: 6px;
+        margin-top: 20px;
+    }
+</style>
+</head>
+
+<body>
+
+<div class="header">
+    <h1>GlobalITCSupport</h1>
+    <p>Terms & Conditions</p>
+</div>
+
+<div class="container">
+
+    <p>
+        By accessing or using <strong>GlobalITCSupport</strong>, you confirm that you
+        have read, understood, and agreed to be bound by the following Terms and
+        Conditions.
+    </p>
+
+    <h2>1. Company Information</h2>
+    <p>
+        GlobalITCSupport provides trading-related technology and support services.
+        Operations are conducted in accordance with applicable laws and regulations,
+        including those of New Zealand where required.
+    </p>
+
+    <h2>2. Eligibility</h2>
+    <p>
+        You must be at least 18 years old and legally permitted to engage in trading
+        activities within your jurisdiction.
+    </p>
+
+    <h2>3. Risk Disclosure</h2>
+    <div class="highlight">
+        Trading financial instruments involves substantial risk and may result in the
+        loss of your invested capital. You should only trade funds you can afford to
+        lose.
+    </div>
+
+    <h2>4. No Financial Advice</h2>
+    <p>
+        All information provided by GlobalITCSupport is for general informational
+        purposes only and does not constitute financial or investment advice.
+    </p>
+
+    <h2>5. User Responsibilities</h2>
+    <p>
+        Users are responsible for maintaining account security, providing accurate
+        information, and complying with all applicable laws and platform rules.
+    </p>
+
+    <h2>6. Limitation of Liability</h2>
+    <p>
+        GlobalITCSupport shall not be liable for any losses, damages, or expenses
+        arising from the use or inability to use our services.
+    </p>
+
+    <h2>7. Intellectual Property</h2>
+    <p>
+        All content, branding, and materials are the intellectual property of
+        GlobalITCSupport and may not be reproduced without permission.
+    </p>
+
+    <h2>8. Amendments</h2>
+    <p>
+        These Terms and Conditions may be updated at any time. Continued use of the
+        platform indicates acceptance of any changes.
+    </p>
+
+    <h2>9. Governing Law</h2>
+    <p>
+        These Terms are governed by the laws of New Zealand.
+    </p>
+
+    <h2>10. Contact Information</h2>
+    <div class="contact">
+        <strong>Email:</strong> support@globalitcsupport.com
+    </div>
+
+    <p style="margin-top:20px;">
+        <strong>Last Updated:</strong> [Insert Date]
+    </p>
+
+</div>
+
+<div class="footer">
+    © 2025 GlobalITCSupport. All rights reserved.
+</div>
+
+</body>
+</html>
